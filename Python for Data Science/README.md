@@ -2,6 +2,7 @@
   
 **Project 1:**  I built a wine inventory control system using Object-Oriented in Python. I broke up the engine component from UI. The engine contains unit test of what the UI would use. Additionally, the wine inventory and customer list are contained in separate databases (CSV), while the password is encrypted.  
 
+![test](https://github.com/CraigGo/Portfolio/blob/master/Python%20for%20Data%20Science/Workflow.PNG)
 
 
 
