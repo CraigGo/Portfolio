@@ -28,7 +28,7 @@ The interpretation of the formula::
 <img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Step_model_Coef.png">
 
 
-**Topics Covered in Analysis:**  
+**Highlight of details Covered in report:**  
   
 Exploratory Data Analysis (EDA)  
 - Data Issues and Fixes  
