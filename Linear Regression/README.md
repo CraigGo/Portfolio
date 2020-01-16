@@ -10,12 +10,11 @@ Carolina reduce crime rate. Numerous studies demonstrate that decreasing crime r
 and increases probability of reelection due to improved economic conditions. This study will identify efficient ways to decrease
 crime rate and serves as a starting point for future studies. We will use ordinary least squares regression to examine our
 dataset to make policy suggestions and will recommend opportunities for additional study.  
-  
-Optimization Model STEP formula:  
-
+   
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimized_Model.PNG">
 
 The interpretation of the formula:
-
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimize_model_Coef.png">
 
 
 **Topics Covered in Analysis**  
