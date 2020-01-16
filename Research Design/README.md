@@ -4,11 +4,11 @@ I am appling research design  to uncover, enrich, and answer questions that are 
   
 **Projects:**  
 Invisible Ink:  Storytelling through Pictures and Words  
-<pre>
-      <img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/First_human_transporter.PNG" width="30%" height="30%">
-</pre>
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/First_human_transporter.PNG" width="30%" height="30%">
   
 Pursuasion in Business and Real Life  
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/Future_of_driving.PNG" width="30%" height="30%">
   
 New Production Introduction  
-  
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/First_human_transporter.PNG" width="30%" height="30%">
+
