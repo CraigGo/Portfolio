@@ -17,18 +17,21 @@ The interpretation of the formula:
 <img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimize_model_Coef.png">
 
 
-**Topics Covered in Analysis**  
+**Topics Covered in Analysis:**  
+  
 Exploratory Data Analysis (EDA)  
 - Data Issues and Fixes  
 - Variable Oddities  
 - Outlier Examination  
 - Variable Correlation  
 - Data Transformation  
+
 Main Analysis  
 - Simple Regression Model  
 - Optimization Stepwise Analysis  
 - Extended Model  
 - Joint Statistical Test Results  
+
 Hypothesis Evaluation  
 Omitted Variable Bias  
 Causality Discussion  
