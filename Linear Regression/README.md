@@ -1,4 +1,4 @@
-# Solving Business Problems using Linear Regression by Craig Fleischman  
+# Solving Business Problems using Linear Regression
 
 A Jupyter Notebook and R was used to perform the statistical analysis on the research question in this group project. I performed the EDA (Exploratory Data Analysis) as well as developmed the Optimized Step Model.  
     
