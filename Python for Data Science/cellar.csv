@@ -1,0 +1,43 @@
+email,color,category,size,value,quantity,vintage,wine,country,locale,producer,varietal,beginConsume,endConsume,rating,row,col
+craigfl@hotmail.com,Red,Dry,750ml,20.0,1,2004,Château Lorane Baco Noir,USA,"USA, Oregon, Southern Oregon, Umpqua Valley",Château Lorane,Baco Noir,2009,2011,91,5,4
+craigfl@hotmail.com,White,Sparkling,750ml,12.4768,2,1001,Zardetto Prosecco Brut,Italy,"Italy, Veneto, Prosecco",Zardetto,Glera,2009,2011,85.76576577,5,19
+craigfl@hotmail.com,Red,Dry,750ml,29.2,1,1997,Frog's Leap Rutherford,USA,"USA, California, Napa Valley, Rutherford",Frog's Leap,Cabernet Sauvignon,2008,2013,90.46153846,6,1
+craigfl@hotmail.com,White,Sparkling,750ml,11.3415,1,1001,Domaine Ste. Michelle Brut,USA,"USA, Washington, Columbia Valley",Domaine Ste. Michelle,Champagne Blend,2010,2012,85.57342657,6,8
+craigfl@hotmail.com,Red,Dry,750ml,19.99,1,2004,Silver Lake Merlot Reserve Rattlesnake Hills,USA,"USA, Washington, Columbia Valley, Rattlesnake Hills",Silver Lake,Merlot,2009,2014,89.66666667,6,10
+craigfl@hotmail.com,Red,Dry,750ml,27.5625,1,1998,Frog's Leap Rutherford,USA,"USA, California, Napa Valley, Rutherford",Frog's Leap,Cabernet Sauvignon,2008,2016,90.8,6,15
+craigfl@hotmail.com,Red,Dry,750ml,166.7352,6,2004,Joseph Phelps Insignia,USA,"USA, California, Napa Valley",Joseph Phelps,Red Bordeaux Blend,2009,2023,94.27530364,8,11
+craigfl@hotmail.com,Red,Dry,750ml,25.0666,1,1001,DiStefano Cabernet Sauvignon Washington Red Wine,USA,"USA, Washington",DiStefano,Cabernet Sauvignon,9999,9999,88,11,19
+craigfl@hotmail.com,Red,Dry,750ml,61.6667,5,2004,"Stags' Leap Winery Cabernet Sauvignon ""The Leap""",USA,"USA, California, Napa Valley",Stags' Leap Winery,Cabernet Sauvignon,2008,2020,90.92307692,12,11
+craigfl@hotmail.com,White,Sweet/Dessert,375ml,23.8618,1,2003,Matthews Sémillon Ice Wine Klipsun Vineyard,USA,"USA, Washington, Columbia Valley, Red Mountain",Matthews,Sémillon,2007,2013,89.8,13,11
+craigfl@hotmail.com,Red,Dry,750ml,48.0,1,1997,Masi Amarone della Valpolicella Classico Serègo Alighieri Vaio Armaron,Italy,"Italy, Veneto, Valpolicella, Amarone della Valpolicella Classico",Masi,Corvina Blend,2002,2013,92.03846154,16,16
+craigfl@hotmail.com,Red,Dry,750ml,20.6667,1,2004,Château La Vieille Cure,France,"France, Bordeaux, Libournais, Fronsac",Château La Vieille Cure,Red Bordeaux Blend,2010,2019,89.60674157,17,16
+craigfl@hotmail.com,Red,Dry,750ml,40.0,1,1001,Stag's Leap Wine Cellars Fay Golden Rectangle,USA,"USA, California, Napa Valley, Stags Leap District",Stag's Leap Wine Cellars,Red Bordeaux Blend,2014,2018,91.15789474,18,16
+craigfl@hotmail.com,Red,Dry,750ml,19.0287,2,2003,Vignalta Syrah Monte Rey,USA,"USA, California, Central Coast, Monterey",Vignalta,Syrah,2008,2014,90.32432432,22,13
+craigfl@hotmail.com,Other,Other,375ml,9.5,1,1001,Hoodsport Raspberry,USA,"USA, Washington",Hoodsport,Raspberry,2006,2010,85,23,16
+craigfl@hotmail.com,Red,Dry,750ml,70.2308,2,1984,Duckhorn Vineyards Cabernet Sauvignon Napa Valley,USA,"USA, California, Napa Valley",Duckhorn Vineyards,Cabernet Sauvignon,2004,2010,89.93333333,24,1
+craigfl@hotmail.com,Rosé,Dry,750ml,20.3416,1,1001,DiStefano Amare,USA,"USA, Washington, Columbia Valley",DiStefano,Rosé Blend,9999,9999,86.5,25,1
+craigfl@hotmail.com,Red,Fortified,750ml,23.52,1,1001,Cockburn Porto 10 Year Old Tawny,Portugal,"Portugal, Douro, Porto",Cockburn,Port Blend,2009,2009,87.81818182,25,12
+craigfl@hotmail.com,Rosé,Sparkling,187ml,4.9133,1,1001,Nicolas Feuillatte Champagne Brut Rosé,France,"France, Champagne",Nicolas Feuillatte,Champagne Blend,2012,2018,88.52016129,25,19
+craigfl@hotmail.com,White,Sweet/Dessert,375ml,9.99,1,2003,Apex Cellars Sémillon Apex II Late Harvest,USA,"USA, Washington, Columbia Valley",Apex Cellars,Sémillon,9999,9999,86,28,2
+craigfl@hotmail.com,red,dry,750ml,122.0,4,2010,It's all good,USA,"napa valley, usa",cat and dog productions,Cabernet,2012,2029,94,0,0
+python@gmail.com,Red,Dry,750ml,38.616,5,2001,Betz Family Syrah La Serenne,USA,"USA, Washington, Columbia Valley",Betz Family,Syrah,2005,2013,90.63636364,1,3
+python@gmail.com,Red,Dry,750ml,78.5,2,2000,Landmark Pinot Noir Kastania,USA,"USA, California, Sonoma County, Sonoma Coast",Landmark,Pinot Noir,2002,2008,83.75,1,13
+python@gmail.com,Rosé,Dry,750ml,0.0,1,2002,Château Marouine Côtes de Provence Rosé,France,"France, Provence, Côtes de Provence",Château Marouine,Rosé Blend,9999,9999,90,3,13
+python@gmail.com,Red,Dry,750ml,159.75,1,2002,Château La Croix Pomerol,France,"France, Bordeaux, Libournais, Pomerol",Château La Croix,Red Bordeaux Blend,2012,2017,88,3,19
+python@gmail.com,Red,Dry,750ml,82.054,3,2005,Ramey Jericho Canyon Vineyard,USA,"USA, California, Napa Valley",Ramey,Red Bordeaux Blend,2008,2023,93.39655172,4,4
+python@gmail.com,Red,Dry,750ml,62.4833,1,1999,Frog's Leap Rutherford,USA,"USA, California, Napa Valley, Rutherford",Frog's Leap,Cabernet Sauvignon,2009,2017,91.16666667,6,9
+python@gmail.com,Red,Dry,750ml,10.3418,1,2003,Les Caves Fleury,France,"France, Bordeaux",Les Caves Fleury,Red Bordeaux Blend,2009,2012,84,7,10
+python@gmail.com,Red,Dry,750ml,35.1333,1,2003,"Hollywood & Vine Cellars Cabernet Sauvignon ""2480"" Napa Valley",USA,"USA, California, Napa Valley",Hollywood & Vine Cellars,Cabernet Sauvignon,2007,2014,90.83333333,8,16
+python@gmail.com,Red,Dry,750ml,39.9983,1,2003,Frog's Leap Cabernet Sauvignon,USA,"USA, California, Napa Valley",Frog's Leap,Cabernet Sauvignon,2010,2013,88.17647059,9,5
+python@gmail.com,Red,Dry,750ml,24.5,1,1999,Stags' Leap Winery Cabernet Sauvignon,USA,"USA, California, Napa Valley",Stags' Leap Winery,Cabernet Sauvignon,2006,2011,90.33333333,10,12
+python@gmail.com,Red,Dry,750ml,62.0,1,2001,Brick House Pinot Noir Cuvée du Tonnelier,USA,"USA, Oregon, Willamette Valley",Brick House,Pinot Noir,2005,2008,92.09090909,10,17
+python@gmail.com,Red,Dry,750ml,45.0,1,2002,"Hollywood & Vine Cellars Cabernet Sauvignon ""2480"" Napa Valley",USA,"USA, California, Napa Valley",Hollywood & Vine Cellars,Cabernet Sauvignon,2006,2014,91.4,11,10
+python@gmail.com,Red,Dry,750ml,36.75,1,2005,Emeritus Vineyards Pinot Noir William Wesley,USA,"USA, California, Sonoma Coast",Emeritus Vineyards,Pinot Noir,2008,2013,91.91176471,12,16
+python@gmail.com,Red,Dry,750ml,171.7684,1,2002,Vérité La Joie,USA,"USA, California, Sonoma County",Vérité,Red Bordeaux Blend,2008,2024,93.61627907,13,1
+python@gmail.com,Red,Dry,750ml,31.0,1,1999,Stags' Leap Winery Petite Sirah,USA,"USA, California, Napa Valley",Stags' Leap Winery,Petite Sirah,2007,2015,89.60714286,14,13
+python@gmail.com,Red,Dry,750ml,65.2151,1,2005,Stag's Leap Wine Cellars Cabernet Sauvignon Fay,USA,"USA, California, Napa Valley",Stag's Leap Wine Cellars,Cabernet Sauvignon,2012,2020,91,15,14
+python@gmail.com,Red,Dry,750ml,39.2,1,2004,Mount Eden Vineyards Cabernet Sauvignon,USA,"USA, California, San Francisco Bay, Santa Cruz Mountains",Mount Eden Vineyards,Cabernet Sauvignon,2013,2034,91.16666667,15,19
+python@gmail.com,Red,Dry,750ml,34.0,1,2002,Stags' Leap Winery Cabernet Sauvignon,USA,"USA, California, Napa Valley",Stags' Leap Winery,Cabernet Sauvignon,2005,2012,88.94285714,17,2
+python@gmail.com,Red,Dry,750ml,51.85,5,2005,Ramey Cabernet Sauvignon Larkmead Vineyard,USA,"USA, California, Napa Valley",Ramey,Cabernet Sauvignon,2009,2016,91.98529412,17,13
+python@gmail.com,Red,Dry,750ml,43.9616,3,2005,Matthews Red Wine,USA,"USA, Washington, Columbia Valley",Matthews,Red Bordeaux Blend,2011,2025,90.34615385,19,11
+python@gmail.com,red,dry,750ml,28.0,2,2016,Rutherford Leap,USA,Napa Valley,BigDog Cellars,Cabernot,2016,2026,91,9,10
