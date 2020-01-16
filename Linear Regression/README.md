@@ -25,7 +25,7 @@ The best model was that I developed is listed below.
 <img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimized_Model.PNG">
 
 The interpretation of the formula::
-<img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimize_model_Coef.png">
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Step_model_Coef.png">
 
 
 **Topics Covered in Analysis:**  
