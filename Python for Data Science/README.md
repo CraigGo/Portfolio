@@ -7,7 +7,7 @@
 
 **Project 2:** was a team exercise using Python in Jupyter Notebooks to provide some characteristics on Graduate Student Success. Libraries used were numpy, pandas, matplotlib, seaborn, plotly
   
-** Topics included:**  
+**Topics included:**  
   
 - Python syntax and data structures (lists, dictionaries, tuples..)  
 - Libraries, modules  
