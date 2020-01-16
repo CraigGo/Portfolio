@@ -8,10 +8,12 @@ I am appling research design  to uncover, enrich, and answer questions that are 
 <p align="center">
   <img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/First_human_transporter.PNG" class="center" width="30%" height="30%">
 </p>
+  
 2) Pursuasion in Business and Real Life  
 <p align="center">
   <img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/Future_of_driving.PNG" align="middle" width="30%" height="30%">
 </p>
+  
 3) New Production Introduction  
 <p align="center">
   <img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/Baby_safe.PNG" align="middle" width="30%" height="30%">
