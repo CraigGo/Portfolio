@@ -4,6 +4,9 @@ I am appling research design  to uncover, enrich, and answer questions that are 
   
 **Projects:**  
 Invisible Ink:  Storytelling through Pictures and Words  
+<pre>
+      <img src="https://github.com/CraigGo/Portfolio/blob/master/Research%20Design/First_human_transporter.PNG" width="30%" height="30%">
+</pre>
   
 Pursuasion in Business and Real Life  
   
