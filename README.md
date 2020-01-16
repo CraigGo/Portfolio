@@ -16,7 +16,7 @@
 **Data Science Coursework by January 2020:**  
   
 ⦁	Python Programming for Data Science: Python, Numpy, Pandas  
-⦁	Research Design  
+⦁	Research Design and Application  
 ⦁	Statistics & Linear Regression: R, Latex  
 ⦁	Data Engineering: SQL, Docker, YML, BigQuery, Spark, Kafka, RDB, NoSQL, ETL, GCP  
 ⦁	Machine Learning: scilearn, un/Supervised, KNN, Naive Bayes  
