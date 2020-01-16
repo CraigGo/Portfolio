@@ -19,7 +19,7 @@ The interpretation of the formula:
 
 
 **Topics Covered in Analysis**  
-Exploratory Data Analysis  
+Exploratory Data Analysis (EDA)  
 - Data Issues and Fixes  
 - Variable Oddities  
 - Outlier Examination  
