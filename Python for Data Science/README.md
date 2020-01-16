@@ -5,7 +5,7 @@
 
 
 
-**Project 2:** was a team exercise using Python in Jupyter Notebooks to provide some characteristics on Graduate Student Success. Libraries used were numpy, pandas, matplotlib, seaborn, plotly
+**Project 2:** Project 2 was a team project using Python in a Jupyter Notebook using numpy, pandas, matplotlib, seaborn, and plotly. The research questions were centered in the following areas: Degree choices, earnings, employment, university expenses, faculty, and geographical distribution. The U.S. Department of Education dataset was used (3,600 variables & over 15,000 rows) to examine these questions. (Note: Statistical validation of the questions were not performed.)  
   
 **Topics included:**  
   
