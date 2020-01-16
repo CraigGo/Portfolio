@@ -10,7 +10,18 @@ Carolina reduce crime rate. Numerous studies demonstrate that decreasing crime r
 and increases probability of reelection due to improved economic conditions. This study will identify efficient ways to decrease
 crime rate and serves as a starting point for future studies. We will use ordinary least squares regression to examine our
 dataset to make policy suggestions and will recommend opportunities for additional study.  
-   
+  
+Null Hypothesis:  
+1) 'Probability' of conviction (prbconv) has no effect on crime rate.  
+2) Police per capita (polpc) has no effect on crime rate.  
+  
+Alternate Hypothesis:  
+1) 'Probability' of conviction (prbconv) has a statistically significant effect on crime rate.  
+2) Police per capita (polpc) has a statistically significant effect on crime rate.  
+  
+Classical Hypothesis: (The following hypotheses will be tested for each parameter)  
+<img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Hypothesis.PNG">
+  
 <img src="https://github.com/CraigGo/Portfolio/blob/master/Linear%20Regression/Optimized_Model.PNG">
 
 The interpretation of the formula:
