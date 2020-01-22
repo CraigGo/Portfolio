@@ -1,8 +1,6 @@
 # Building a data pipeline  
-
 <img src="https://github.com/CraigGo/Portfolio/blob/master/Data%20Engineering/pipeline-overall.png" width="100%" height="100%">  
-
-How to use Kafka and Spark containers to write messages to HDFS files for subsequent processing in analytics.
+How to use Kafka and Spark containers to write messages to HDFS files for subsequent processing in analytics.  
 
 Apache Kafka is used for creating real-time data pipelines. In this example, we simply substitute a .json file for the messages that would be flowing in real-time.
 
