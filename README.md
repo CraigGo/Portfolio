@@ -17,7 +17,7 @@
   
 ⦁	Python Programming for Data Science: Python, Numpy, Pandas  
 ⦁	Research Design and Application  
-⦁	Statistics & Linear Regression: R, Latex  
+⦁	Statistics & Linear Regression: R, LaTeX  
 ⦁	Data Engineering: SQL, Docker, YML, BigQuery, Spark, Kafka, RDB, NoSQL, ETL, GCP  
 ⦁	Machine Learning: scilearn, un/Supervised, KNN, Naive Bayes  
 ⦁	Deep Learning in the Cloud and at the Edge: Ensemble, Neural Networks, Regularization, IBM Cloud, Nvidia Jetson TX2  
