@@ -29,11 +29,11 @@ I am seeking an engineering/business position in customer-obsessed company  that
 
 **Relevant Experience Recap:**  
   
-⦁	2 years as Chief Operating Officer of AI/Machine Learning autonomous bot startup where I designed the GUI myself, created GTM, sku and pricing strategy, and implemented key CI/CD pipeline components.   
-⦁	2 years as VP of Technology at UnitedHealth Group where I reshaped private cloud (VMWare) strategy and created the public cloud (AWS & Azure) strategy. Lead next generation IT Technologies including 3rd party relationships and next generation operations.  
-⦁	5 years consulting, advising, and investing in startups (Telecommunications, BigData, Athletic Clothing).  
-⦁	3 years as Software Engineering Director, Cloud & Enterprise at Microsoft where I lead development of Enterprise, Hardware, Services, and Security Software. Oversaw in-market, in-process portfolios and drove shift to DevOps model.  Directly responsible for Service Engineers, Quality Engineers, Program Managment, and Engineering Tools Team.   
-⦁	6 years as Software Engineering Director, Windows at Microsoft where I led Windows internal engineering, including build system, pre-check-in quality analysis systems, internal tools and systems for release, automation systems, and 24x7 global Operations (network designs, monitoring, ticketing, break/fix, tool development).  
-⦁	6 years as Software Engineering Director, Office at Microsoft where I lead the release of the product and services. This included the facilitation for Office Directors and Quality Directors and driving the weekly executive meetings.  
+⦁	2 years as **Chief Operating Officer of AI/Machine Learning autonomous bot startup** where I designed the GUI myself, created GTM, sku and pricing strategy, and implemented key CI/CD pipeline components.   
+⦁	2 years as **VP of Technology at UnitedHealth Group** where I reshaped private cloud (VMWare) strategy and created the public cloud (AWS & Azure) strategy. Lead next generation IT Technologies including 3rd party relationships and next generation operations.  
+⦁	5 years consulting, advising, and investing in startups (Telecommunications, BigData, Sportswear).  
+⦁	3 years as **Software Engineering Director, Cloud & Enterprise at Microsoft** where I lead development of Enterprise, Hardware, Services, and Security Software. Oversaw in-market, in-process portfolios and drove shift to DevOps model.  Directly responsible for Service Engineers, Quality Engineers, Program Managment, and Engineering Tools Team.   
+⦁	6 years as **Software Engineering Director, Windows at Microsoft** where I led Windows internal engineering, including build system, pre-check-in quality analysis systems, internal tools and systems for release, automation systems, and 24x7 global Operations (network designs, monitoring, ticketing, break/fix, tool development).  
+⦁	6 years as **Software Engineering Director, Office at Microsoft** where I lead the release of the product and services. This included the facilitation for Office Directors and Quality Directors and driving the weekly executive meetings.  
   
 Note: some files in the repository are in github and some are linked to gdrive. Github has size restrictions.  
