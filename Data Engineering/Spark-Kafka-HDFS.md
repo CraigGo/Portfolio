@@ -12,7 +12,7 @@ Through 3 different activites (6,7,8), you will spin up existing containers and 
 7 - Use spark to transform the messages.  
 8 - Use spark to transform the messages so that you can land them in hdfs.  
 
-# Steve Dille, W205 Assignment 8 Annotations for Publishing and Consuming Messages with Kafka, Spark and HDFS  
+# W205 Assignment 8 Annotations for Publishing and Consuming Messages with Kafka, Spark and HDFS  
 
 # Copy the .YML file from course content repository and create a directory.  
 759 mkdir ~/w205/spark-with-kafka-and-hdfs  
