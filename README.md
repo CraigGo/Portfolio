@@ -21,11 +21,11 @@
 ⦁	Data Engineering: SQL, Docker, YML, BigQuery, Spark, Kafka, RDB, NoSQL, ETL, GCP  
 ⦁	Machine Learning: scilearn, un/Supervised, KNN, Naive Bayes  
 ⦁	Deep Learning in the Cloud and at the Edge: Ensemble, Neural Networks, Regularization, IBM Cloud, Nvidia Jetson TX2  
-⦁	Data Visualization: Javascript, D3, HTML, CSS, Tableau (in progress)  
+⦁	Data Visualization: Javascript, D3, HTML, CSS, Tableau   
   
 **Goal:**  
   
-I am seeking an engineering/business position in customer-obsessed company  that combines my technical skills in data science with my business, strategy and communications skills. In short, I'm a software project manager that understand the business and the technical details and how to bring it altogether to blow customers away. I really enjoy the process, the prioritization of working in complex technologies and partnering with customers to solve their most challenging problems in a team environment.
+I am seeking an operations/engineering/business position in a customer-obsessed company that combines my technical skills in data science with my business, strategy and communications skills. In short, I'm a software operations/project manager that understand the business and the technical details and how to bring it altogether to blow customers away. I really enjoy the process, the prioritization of working in complex technologies, being a change-agent, and partnering with customers to solve their most challenging problems in a team environment.
 
 **Relevant Experience Recap:**  
   
