@@ -2,7 +2,7 @@
  
 **Degrees:**  
   
-⦁	Master in Data Science, UC Berkeley (in progress)  
+⦁	Master in Data Science, UC Berkeley (completed)  
 ⦁	MBA, Seattle University (completed)  
 ⦁	BS, Computer Science/Business & Economics, University of Puget Sound (completed)  
   
